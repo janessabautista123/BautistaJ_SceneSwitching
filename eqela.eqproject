@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# SceneSwitching
+#
+
+projectname: SceneSwitching
+vendorid: com.janessabautista
+mainmodule: com.janessabautista.sceneswitching
