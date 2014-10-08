@@ -16,7 +16,7 @@ public class SecondScene : SEScene
 	}
 
 	public void on_pointer_press(SEPointerInfo pi) {
-	    switch_scene(new MainScene());
+	    switch_scene(new Main());
 	}
 
 	public void cleanup() {
